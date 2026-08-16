@@ -1,2 +1,2 @@
-# 5th sem classes
+# 5th sem
 

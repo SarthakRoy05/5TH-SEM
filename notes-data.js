@@ -18,6 +18,13 @@ const NOTES_SUBJECTS = [
         notes: [
           { title: "Module 1 Long Notes", file: "notes/java/Java.pdf" }
         ]
+      },
+      {
+        id: "java-1",
+        title: "Module 2_Short Notes",
+        notes: [
+          { title: "Module 2 short Notes", file: "notes/java/Java_Module2.pdf" }
+        ]
       }
     ]
   },

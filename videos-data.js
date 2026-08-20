@@ -36,22 +36,22 @@ const SUBJECTS = [
         id: "strum-1",
         title: "MODULE 1",
         videos: [
-          {
-            title: "Class 1",
-            duration: "1h 10m",
-            file: "videos/strumming/module1.mp4"
-          },
+          // {
+          //   title: "Class 1",
+          //   duration: "1h 10m",
+          //   file: "videos/strumming/module1.mp4"
+          // },
         ]
       },
       {
         id: "strum-2",
         title: "MODULE 2",
         videos: [
-          {
-            title: "Class 2",
-            duration: "1h 15m",
-            file: "videos/strumming/module2.mp4"
-          },
+          // {
+          //   title: "Class 2",
+          //   duration: "1h 15m",
+          //   file: "videos/strumming/module2.mp4"
+          // },
         ]
       }
     ]

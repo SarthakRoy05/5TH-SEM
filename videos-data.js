@@ -72,17 +72,6 @@ const SUBJECTS = [
           },
         ]
       },
-    {
-        id: "songs-2",
-        title: "MODULE 2",
-      videos: [
-       {
-          title: "Class 2",
-          duration: "1h 10m",
-          file: "videos/songs/module1.mp4"
-       },
-      ]
-    }
   ] 
 }
 

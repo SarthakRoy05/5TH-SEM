@@ -73,6 +73,24 @@ const SUBJECTS = [
         ]
       },
   ] 
+},
+
+{
+    id: "entreprenuer",
+    title: "Entreprenuership",
+  topics: [
+      {
+        id: "entreprenuer-1",
+        title: "MODULE 1",
+        videos: [
+          {
+            title: "Class 1",
+            duration: "1h 10m",
+            file: "videos/entreprenuer/module1.mp4"
+          },
+        ]
+      },
+  ] 
 }
 
 ]

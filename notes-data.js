@@ -37,7 +37,7 @@ const NOTES_SUBJECTS = [
         id: "php-1",
         title: "Module 1",
         notes: [
-          { title: "Module 1 Notes", file: "notes/php/PHP_Module1.pdf" }
+          { title: "Module 1 Notes", file: "notes/php/PHP_Module 1.pdf" }
         ]
       }
     ]
